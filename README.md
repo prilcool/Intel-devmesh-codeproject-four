@@ -1,5 +1,6 @@
 # Intel-devmesh-codeproject-four
-simulate rocket launch
+simulate rocket launch program article can be found on 
+https://devmesh.intel.com/projects/rocket-projection-using-quadratics
 
 
 # SCENARIO
