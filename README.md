@@ -22,9 +22,9 @@ Copy the entire structure including all files to  Intel dev cloud .
 
 Ensure that the  Python 3.7 (Intel OneApi)  kernal is running
 
-Ensure that you are using the q file ,regression.sh and Makefile that is provided with this sourcecode.
+Ensure that you are using the q file ,simulate_rocket_launch.sh and Makefile that is provided with this sourcecode.
 
-Ensure that file exist in  lab/regression.cpp
+Ensure that file exist in  lab/simulate_rocket_launch.cpp
 
 
 Run the following  jupyter notebook  Interest-on-account-audit-onemillion_records.ipynb
