@@ -35,8 +35,8 @@ Run the following  jupyter notebook  Interest-on-account-audit-onemillion_record
      
 ## Results
     u60146 is compiling your Rocket launch simulation program.
-   Simulated Result for the next rocket launch :
-   The rocket reaches maximum height at 31.6327 seconds , Maximum height rocket travels is 5235.06 meters  and rocket will splash down at  time  64.3878 seconds
+    Simulated Result for the next rocket launch :
+    The rocket reaches maximum height at 31.6327 seconds , Maximum height rocket travels is 5235.06 meters  and rocket will splash down at  time  64.3878 seconds
 
 
 ## Cross architecture compatibility GPU & CPU
